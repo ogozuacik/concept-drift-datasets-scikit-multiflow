@@ -8,3 +8,4 @@ https://archive.ics.uci.edu/ml/datasets.php <br/>
 https://github.com/gditzler/ConceptDriftResources <br/>
 https://github.com/tegjyotsingh/ConceptDriftInduction <br/>
 https://github.com/vlosing/driftDatasets <br/>
+http://www.liaad.up.pt/kdus/products/datasets-for-concept-drift <br/>
