@@ -6,32 +6,32 @@ Real:
 
 
 | Dataset  | # Features | # Classes | # Samples |
-| --------- | --------- | --------- | --------- |
-| LUdata  | Content Cell  | Content Cell  |
-| Airlines | Content Cell  | Content Cell  |
-| Chessweka  | Content Cell  | Content Cell  |
+| --------- | --------: | --------: | --------: |
+| LUdata  | 31 | 2 | 1.901 |
+| Airlines | 7 | 2 | 539.383 |
+| Chessweka  | 8 | 2 | 503 |
 | Covtype | 54 | 7 | 581.012 |
 | Elec  | 6 | 2 | 45.312 |
-| Outdoor Stream | Content Cell  | Content Cell  |
-| Phishing  | Content Cell  | Content Cell  |
+| Outdoor Stream | 21 | 40 | 4.000 |
+| Phishing  | 46 | 2 | 11.055 |
 | Poker | 10 | 10 | 829.201 |
 | Rialto  | 27 | 10 | 82.250 |
-| Spam | Content Cell  | Content Cell  |
-| Weather  | Content Cell  | Content Cell  |
+| Spam | 499 | 2 | 6213 |
+| Weather  | 8 | 2 | 18159 |
 
 Artifical:
 
 
 | Dataset  | # Features | # Classes | # Samples |
-| --------- | --------- | --------- | --------- |
+| --------- | --------: | --------: | --------: |
 | InterchangingRBF  | 2 | 15 | 200.000 |
-| MixedDrift |  | Content Cell  |
+| MixedDrift | 2 | 15 | 600.000 |
 | MovingRBF  | 10 | 5 | 200.000 |
 | Moving Squares | 2 | 4 | 200.000 |
 | Rotating Hyperplane  | 10 | 2 | 200.000 |
-| SEA Big | Content Cell  | Content Cell  |
-| Sea Stream | Content Cell  | Content Cell  |
-| Transient Chessboard  | Content Cell  | Content Cell  |
+| SEA Big | 3 | 2 | 100.000 |
+| Sea Stream | 3 | 2 | 40.000 |
+| Transient Chessboard  | 2 | 8 | 200.000 |
 
 
 
