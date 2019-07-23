@@ -3,6 +3,8 @@
 Concept drift datasets edited to work with Scikit-multiflow directly.
 
 Real:
+
+
 | Dataset  | # Features | # Samples |
 | ------------- | ------------- | ------------- |
 | LUdata  | Content Cell  | Content Cell  |
@@ -18,6 +20,8 @@ Real:
 | Weather  | Content Cell  | Content Cell  |
 
 Artifical:
+
+
 | Dataset  | # Features | # Samples |
 | ------------- | ------------- | ------------- |
 | InterchangingRBF  | Content Cell  | Content Cell  |
