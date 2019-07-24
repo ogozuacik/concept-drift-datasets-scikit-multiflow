@@ -16,8 +16,8 @@ Real:
 | Phishing  | 46 | 2 | 11.055 |
 | Poker | 10 | 10 | 829.201 |
 | Rialto  | 27 | 10 | 82.250 |
-| Spam | 499 | 2 | 6213 |
-| Weather  | 8 | 2 | 18159 |
+| Spam | 499 | 2 | 6.213 |
+| Weather  | 8 | 2 | 18.159 |
 
 Artifical:
 
